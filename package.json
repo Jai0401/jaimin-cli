@@ -1,0 +1,30 @@
+{
+  "name": "jaimin",
+  "version": "1.0.0",
+  "description": "My porfolio as CLI tool",
+  "bin": {
+    "jaimin": "./index.js"
+  },
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jai0401/jaimin-cli.git"
+  },
+  "author": "Jaimin Godhani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jai0401/jaimin-cli/issues"
+  },
+  "homepage": "https://github.com/Jai0401/jaimin-cli#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "figlet": "^1.7.0",
+    "gradient-string": "^2.0.2",
+    "open": "^10.1.0"
+  }
+}
