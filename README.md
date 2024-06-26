@@ -34,3 +34,18 @@ You can install the `jaimin` CLI tool in two ways:
     ```bash
     npm install -g jaimin
     ```
+## Usage
+
+After installing, you can use the `jaimin` command to get information about me. Below are the available commands and options:
+
+### Options
+
+- `-V, --version`  output the version number
+- `-h, --help`     display help for command
+
+### Commands
+
+- `github`         Open my GitHub profile
+- `linkedin`       Open my LinkedIn profile
+- `resume`         Open my resume
+- `website`        Open my personal website
