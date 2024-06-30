@@ -1,6 +1,8 @@
 # jaimin CLI Tool
 
 **jaimin** is a simple CLI tool that provides information about me. This tool was created as a learning project for creating CLI tools using Node.js.
+![image](https://github.com/Jai0401/jaimin-cli/assets/112328542/374f6f92-2f58-4c66-b4d6-dd6cebe4e223)
+
 
 ## Installation
 
